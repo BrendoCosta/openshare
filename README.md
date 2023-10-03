@@ -1,3 +1,3 @@
 # OpenShare
 
-Classes experimentais para network service discovery (NSD) e descoberta de hosts numa LAN a partir do Android.
+Classes experimentais para network service discovery (NSD) e descoberta de hosts IPv4 numa LAN em multithreading a partir do Android.
