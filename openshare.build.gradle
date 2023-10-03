@@ -1,0 +1,7 @@
+apply plugin: "kotlin-android"
+
+dependencies {
+    implementation "org.jetbrains.kotlin:kotlin-stdlib:$kotlinVersion"
+    implementation "com.hierynomus:smbj:0.11.5"
+    implementation "com.squareup.moshi:moshi:$moshiVersion" 
+}
